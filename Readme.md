@@ -21,7 +21,7 @@ The goal of this project is to demonstrate clean UI design, responsive layout te
 
 ---
 
-## 📷 Screenshots
+## 📷 Screenshots (Note: Screenshots)
 ![Codes](C:\Users\hp\Desktop\WebTechTheory\assets\main.png)
 ### Homepage
 ![Homepage](C:\Users\hp\Desktop\WebTechTheory\assets\index1.png)
